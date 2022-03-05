@@ -41,3 +41,5 @@ typings/
 # VIM swp files
 *.swp
 
+# WebStorm files
+.idea
